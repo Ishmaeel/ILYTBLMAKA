@@ -11,9 +11,9 @@ I love you, Todoist, but leave my arrow keys alone!
   
 * **How?**
 
-  Just install with your userscript manager (GreaseMonkey, TamperMonkey) and jump over those word boundaries like a boss.
+  Just install with your userscript manager ([GreaseMonkey](https://addons.mozilla.org/addon/greasemonkey/), [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) and jump over those word boundaries like a boss.
 
-* **Is it compatible with the awesome [todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) extension** (that you don't seem to have any affiliation with) **?**
+* **Is it compatible with the awesome [todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) extension** (that you don't seem to have any affiliation with)**?**
 
   Yep.
   
